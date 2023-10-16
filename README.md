@@ -1,12 +1,12 @@
-<h3>My name is Thanasis Kyprianos</h3>
+### My name is Thanasis Kyprianos
 
 ***
 
-<h4>I'm a undergraduate at the University of Athens in the Department of Informatics and Telecommunications.</h4>
+I'm a undergraduate at the University of Athens in the Department of Informatics and Telecommunications.
 
 ---
 
-<h3>Connect with me:</h3>
+### Connect with me:
 <p>
 <a href="https://stackoverflow.com/users/15460366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15460366" height="30" width="40" /></a>
 </p>
